@@ -1,0 +1,14 @@
+.idea
+node_modules
+lerna-debug.log
+.DS_Store
+dist
+build
+.rpt2_cache
+yarn-error.log
+react-app-env.d.ts
+coverage
+*.js
+src/packages/use-location-state/README.md
+src/packages/react-router-use-location-state/README.md
+/report.*.json

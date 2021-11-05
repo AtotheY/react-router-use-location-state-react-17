@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QueryStateDemo can set name with button 1`] = `
+<pre
+  data-testid="pre-query-state"
+>
+  {
+ "name": "Felix",
+ "age": 25,
+ "active": false,
+ "date": "2019-01-01T00:00:00.000Z"
+}
+</pre>
+`;
+
+exports[`QueryStateDemo can set name with button 2`] = `
+<pre
+  data-testid="pre-query-state"
+>
+  {
+ "name": "Kim",
+ "age": 25,
+ "active": false,
+ "date": "2019-01-01T00:00:00.000Z"
+}
+</pre>
+`;
+
+exports[`QueryStateDemo can set name with button 3`] = `
+<pre
+  data-testid="pre-query-state"
+>
+  {
+ "name": "Sarah",
+ "age": 25,
+ "active": false,
+ "date": "2019-01-01T00:00:00.000Z"
+}
+</pre>
+`;
